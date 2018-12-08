@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>We We Are</h1>
+<h1>Who We Are</h1>
