@@ -1,8 +1,8 @@
 ---
-title: News & Events
+title: NEWS & EVENTS
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 
+image: assets/images/christmas-invite-2.png
 nav-menu: true
 ---
 

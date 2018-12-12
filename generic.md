@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Gallery
-description: Gallery
+title: GALLERY
+description: 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

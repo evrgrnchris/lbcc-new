@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ministries
+title: MINISTRIES
 nav-menu: true
 ---
 
