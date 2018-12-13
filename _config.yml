@@ -3,7 +3,7 @@ title: Life Builders Community Church
 title_trust: Life Builders Community Trust, Kolkata
 subtitle: Kolkata
 email: youremailaddress@gmail.com
-description: A warm and Christ-centered community for all
+description: A warm and Christ-centered community
 baseurl: "/lbcc-site" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -12,7 +12,7 @@ city: Kolkata
 state: West Bengal
 zip_code: 700 160
 country: India
-phone: +91 8420242594 / +91 9748804704
+phone: +91 8420 242 594 / 7980 268 618
 design_by: Rimil Solutions
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
