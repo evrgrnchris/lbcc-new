@@ -2,6 +2,8 @@
 layout: page
 title: MINISTRIES
 nav-menu: true
+image: assets/images/pic08.jpg
+
 ---
 
 <!-- Main -->

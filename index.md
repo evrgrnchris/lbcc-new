@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to Life Builders Community Church'
+landing-title: 'Come As You Are... Leave Changed!'
 description: null
 image: null
 author: null

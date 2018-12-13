@@ -2,7 +2,7 @@
 title: NEWS & EVENTS
 layout: landing
 description: 
-image: assets/images/christmas-invite-2.png
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 
