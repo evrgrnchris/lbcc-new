@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to Life Builders Community Church'
+landing-title: 'Welcome to Life Builders Community Churche'
 description: null
 image: null
 author: null
