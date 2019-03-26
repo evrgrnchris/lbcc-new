@@ -1,7 +1,7 @@
 ---
 layout: allposts
 title: WHO WE ARE
-landing-title: 'Who We Are not'
+landing-title: 'Who We Are'
 nav-menu: true
 description: null
 image: assets/images/whoweare.png
