@@ -4,7 +4,7 @@ title_trust: Life Builders Community Trust, Kolkata
 subtitle: Kolkata
 email: youremailaddress@gmail.com
 description: GATHER in friendship & family | GROW in character & gifting | GO in mission & service
-baseurl: "/lbcc-site" # the subpath of your site, e.g. /blog
+baseurl: "/lbcc-new" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: New Town Action Area 3
