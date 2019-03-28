@@ -1,6 +1,6 @@
 # site settings
 title: Life Builders Community Church
-title_page: Life Builders Community Church,New Town,Kolkata
+title_page: Life Builders Community Church New Town Kolkata
 title_trust: Life Builders Community Trust, Kolkata
 subtitle: Kolkata
 email: youremailaddress@gmail.com
@@ -15,6 +15,7 @@ zip_code: 700 160
 country: India
 phone_1: +91-8420-242-594
 phone_2: +91-7980-268-618
+phone_whatsapp: 918420242594
 design_by: Rimil Solutions
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
