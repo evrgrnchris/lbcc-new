@@ -1,11 +1,11 @@
 # site settings
 title: Life Builders Community Church
-title_page: Life Builders Community Church New Town Kolkata
+title_page: Life Builders Community Church, Church in New Town, Kolkata, Soulful Worship, Biblical Messages, Sunday School, Fellowship, Christ centered Community, Praise & Worship, Prayer, Friendship
 title_trust: Life Builders Community Trust, Kolkata
 subtitle: Kolkata
 email: youremailaddress@gmail.com
 description: GATHER in friendship & family | GROW in character & gifting | GO in mission & service
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: New Town Action Area 3
