@@ -4,7 +4,7 @@ title: WHO WE ARE
 landing-title: 'Who We Are'
 nav-menu: true
 description: null
-image: assets/images/whoweare.png
+image: assets/images/whoweare.jpg
 author: null
 show_tile: true
 ---
